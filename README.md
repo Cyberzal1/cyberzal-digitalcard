@@ -28,7 +28,7 @@ Instead of handing someone a piece of cardboard that gets lost in a wallet, this
 | **Bio** | Leveraging experience from RAiD to solve complex security challenges, focusing towards **Penetration Testing** and **Red Team** work |
 | **Education** | MBA Cyber Security — Xaltius Academy |
 | **Focus** | Penetration Testing |
-| **Actions** | Download Resume (`Sopfian_Ismail_CV.pdf`), Show QR Code (scan to share), links to [LinkedIn](https://www.linkedin.com/in/cyberzal/) and [GitHub](https://github.com/Cyberzal1/) |
+| **Actions** | Download Resume (`Sopfian_Ismail_Resume.pdf`), Show QR Code (scan to share), links to [LinkedIn](https://www.linkedin.com/in/cyberzal/) and [GitHub](https://github.com/Cyberzal1/) |
 | **Status** | Live "STATUS: ONLINE" indicator |
 
 ## Tech Stack
@@ -44,7 +44,7 @@ Instead of handing someone a piece of cardboard that gets lost in a wallet, this
 cyberzal-digitalcard/
 ├── assets/              # compiled CSS/JS build output
 ├── index.html           # entry point
-├── Sopfian_Ismail_CV.pdf  # downloadable resume
+├── Sopfian_Ismail_Resume.pdf  # downloadable resume
 ├── vite.svg
 └── README.md
 ```
